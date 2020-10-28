@@ -1,2 +1,2 @@
 # medien-und-informatik-projekte
- Medien und Informatikprojektli
+ Eine Sammlung von Coding Projekten für den Medien und Informatikunterricht
