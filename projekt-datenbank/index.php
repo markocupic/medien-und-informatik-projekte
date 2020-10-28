@@ -4,7 +4,7 @@ require_once('src/Helper/Database.php');
 
 use Helper\Database;
 // Setup the database with adminer
-$objConn = new Database('localhost', 'aeracing_fabioh', '%8i}nZ)v2j.Yk>75', 'aeracing_fabioh');
+$objConn = new Database('localhost', 'aeracing_fabioh', '*************', 'aeracing_fabioh');
 
 // Create connection
 $conn = $objConn->connect();
